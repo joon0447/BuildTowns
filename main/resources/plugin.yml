@@ -1,0 +1,13 @@
+name: BuildTowns
+version: '${project.version}'
+main: org.joon1.protecthouse.Main
+api-version: '1.19.3'
+commands:
+  town:
+  마을:
+  tjoin:
+  tremove:
+  tdestroy:
+  tc:
+  마을채팅:
+  bta:
